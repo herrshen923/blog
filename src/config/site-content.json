@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "Herry's Blog",
-		"description": "Herry 的个人博客，记录学习、思考与生活。",
-		"username": "Herry"
+		"title": "Elara's Blog",
+		"description": "Elara 的个人博客，记录学习、思考与生活。",
+		"username": "Elara"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -17,7 +17,8 @@
 	"backgroundColors": [
 		"#f7da3987",
 		"#8fdbe9",
-		"#fffef8"
+		"#fffef8",
+		"#b262ed6d"
 	],
 	"artImages": [
 		{
@@ -33,7 +34,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
