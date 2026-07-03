@@ -17,8 +17,7 @@
 	"backgroundColors": [
 		"#f7da3987",
 		"#8fdbe9",
-		"#fffef8",
-		"#b262ed6d"
+		"#fffef8"
 	],
 	"artImages": [
 		{
@@ -34,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "1c7b726fe720679b",
 	"backgroundImages": [
 		{
 			"id": "",
