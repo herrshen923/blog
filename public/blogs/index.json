@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello, World!",
+    "tags": ["随笔"],
+    "date": "2026-07-03T12:00",
+    "summary": "我的第一篇博客文章，从这里开始记录。",
+    "category": "随笔"
+  }
+]
